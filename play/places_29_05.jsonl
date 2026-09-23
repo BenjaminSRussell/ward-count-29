@@ -633,3 +633,6 @@
 {"n":633,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east roof. direct left open. 6 steps. The awning stays for the wipe."}
 {"n":634,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at the Lot. Nobody past the east roof. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":635,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot east roof. Bess keeps the awning for the wipe. 8 steps, direct on the left lane, open."}
+{"n":636,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east roof. direct left open. 2 steps. The awning stays for the wipe."}
+{"n":637,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Stockyard fence. Nobody past the east roof. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":638,"kind":"place","name":"Stockyard fence east roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Stockyard fence east roof. Matt keeps the awning for the wipe. 4 steps, direct on the left lane, open."}
