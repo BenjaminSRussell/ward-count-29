@@ -598,3 +598,6 @@
 {"n":598,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Kessler alley. Nobody past the west roof. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":599,"kind":"place","name":"Kessler alley west roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley west roof. Bess keeps the barrel for the wipe. 3 steps, direct on the left lane, open."}
 {"n":600,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west roof. direct left open. 4 steps. The barrel stays for the wipe."}
+{"n":601,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at the Lot. Nobody past the west roof. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":602,"kind":"place","name":"the Lot west roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot west roof. Matt keeps the barrel for the wipe. 6 steps, direct on the left lane, open."}
+{"n":603,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west roof. direct left open. 7 steps. The barrel stays for the wipe."}
