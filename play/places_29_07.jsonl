@@ -397,3 +397,6 @@
 {"n":397,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north roof. direct left open. 6 steps. The rope stays for the wipe."}
 {"n":398,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rope at the pier. Nobody past the north roof. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":399,"kind":"place","name":"the pier north roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier north roof. Bess keeps the rope for the wipe. 8 steps, direct on the left lane, open."}
+{"n":400,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north roof. direct left open. 2 steps. The rope stays for the wipe."}
+{"n":401,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at Clinic roof. Nobody past the north roof. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":402,"kind":"place","name":"Clinic roof north roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof north roof. Matt keeps the rope for the wipe. 4 steps, direct on the left lane, open."}
