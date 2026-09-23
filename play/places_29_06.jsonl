@@ -266,3 +266,6 @@
 {"n":266,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east roof. direct left open. 2 steps. The radio coil stays for the wipe."}
 {"n":267,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the radio coil at High line. Nobody past the east roof. We wipe in 3 steps. Direct on the left lane, open."}
 {"n":268,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line east roof. Ivo keeps the radio coil for the wipe. 4 steps, direct on the left lane, open."}
+{"n":269,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east roof. direct left open. 5 steps. The radio coil stays for the wipe."}
+{"n":270,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at High line. Nobody past the east roof. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":271,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line east roof. Bess keeps the radio coil for the wipe. 7 steps, direct on the left lane, open."}
