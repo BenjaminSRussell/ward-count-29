@@ -66,3 +66,6 @@
 {"n":66,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Clinic roof. Nobody past the east roof. We wipe in 5 steps. Direct on the left lane, open."}
 {"n":67,"kind":"place","name":"Clinic roof east roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof east roof. Bess keeps the badge door for the wipe. 6 steps, direct on the left lane, open."}
 {"n":68,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east roof. direct left open. 7 steps. The badge door stays for the wipe."}
+{"n":69,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Switchyard. Nobody past the east roof. We wipe in 8 steps. Direct on the left lane, open."}
+{"n":70,"kind":"place","name":"Switchyard east roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard east roof. Matt keeps the badge door for the wipe. 2 steps, direct on the left lane, open."}
+{"n":71,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east roof. direct left open. 3 steps. The badge door stays for the wipe."}
