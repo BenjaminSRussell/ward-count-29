@@ -947,3 +947,6 @@
 {"n":947,"kind":"place","name":"Ward gate east roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate east roof. Bess keeps the badge door for the wipe. 5 steps, direct on the left lane, open."}
 {"n":948,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, east roof. direct left open. 6 steps. The badge door stays for the wipe."}
 {"n":949,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Kessler alley. Nobody past the east roof. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":950,"kind":"place","name":"Kessler alley east roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley east roof. Matt keeps the badge door for the wipe. 8 steps, direct on the left lane, open."}
+{"n":951,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east roof. direct left open. 2 steps. The badge door stays for the wipe."}
+{"n":952,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the badge door at Kessler alley. Nobody past the east roof. We wipe in 3 steps. Direct on the left lane, open."}
