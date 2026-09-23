@@ -559,3 +559,6 @@
 {"n":559,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south stair. Bess keeps the hydrant for the wipe. 7 steps, direct on the left lane, open."}
 {"n":560,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south stair. direct left open. 8 steps. The hydrant stays for the wipe."}
 {"n":561,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Ward gate. Nobody past the south stair. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":562,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate south stair. Matt keeps the barrel for the wipe. 3 steps, direct on the left lane, open."}
+{"n":563,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south stair. direct left open. 4 steps. The barrel stays for the wipe."}
+{"n":564,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at Ward gate. Nobody past the south stair. We wipe in 5 steps. Direct on the left lane, open."}
