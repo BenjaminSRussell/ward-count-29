@@ -455,3 +455,6 @@
 {"n":455,"kind":"place","name":"High line south roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line south roof. Bess keeps the plywood for the wipe. 7 steps, direct on the left lane, open."}
 {"n":456,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south roof. direct left open. 8 steps. The plywood stays for the wipe."}
 {"n":457,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at Ward gate. Nobody past the south roof. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":458,"kind":"place","name":"Ward gate south roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate south roof. Matt keeps the hydrant for the wipe. 3 steps, direct on the left lane, open."}
+{"n":459,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south roof. direct left open. 4 steps. The hydrant stays for the wipe."}
+{"n":460,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the hydrant at Ward gate. Nobody past the south roof. We wipe in 5 steps. Direct on the left lane, open."}
