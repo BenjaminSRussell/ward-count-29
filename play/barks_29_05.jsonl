@@ -419,3 +419,6 @@
 {"n":419,"kind":"place","name":"Drydock east roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock east roof. Bess keeps the rope for the wipe. 2 steps, direct on the left lane, open."}
 {"n":420,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east roof. direct left open. 3 steps. The rope stays for the wipe."}
 {"n":421,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at High line. Nobody past the east roof. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":422,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line east roof. Matt keeps the rope for the wipe. 5 steps, direct on the left lane, open."}
+{"n":423,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east roof. direct left open. 6 steps. The rope stays for the wipe."}
+{"n":424,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rope at High line. Nobody past the east roof. We wipe in 7 steps. Direct on the left lane, open."}
