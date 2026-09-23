@@ -893,3 +893,6 @@
 {"n":893,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at High line. Nobody past the south stair. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":894,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line south stair. Matt keeps the drum for the wipe. 5 steps, direct on the left lane, open."}
 {"n":895,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south stair. direct left open. 6 steps. The drum stays for the wipe."}
+{"n":896,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the drum at High line. Nobody past the south stair. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":897,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line south stair. Nia keeps the drum for the wipe. 8 steps, direct on the left lane, open."}
+{"n":898,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south stair. direct left open. 2 steps. The drum stays for the wipe."}
