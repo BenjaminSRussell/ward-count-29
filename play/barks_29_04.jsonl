@@ -726,3 +726,6 @@
 {"n":726,"kind":"place","name":"Switchyard east roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Switchyard east roof. Matt keeps the barrel for the wipe. 2 steps, direct on the left lane, open."}
 {"n":727,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east roof. direct left open. 3 steps. The barrel stays for the wipe."}
 {"n":728,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at Switchyard. Nobody past the east roof. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":729,"kind":"place","name":"Switchyard east roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard east roof. Nia keeps the barrel for the wipe. 5 steps, direct on the left lane, open."}
+{"n":730,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east roof. direct left open. 6 steps. The barrel stays for the wipe."}
+{"n":731,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the barrel at Switchyard. Nobody past the east roof. We wipe in 7 steps. Direct on the left lane, open."}
