@@ -718,3 +718,6 @@
 {"n":718,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south stair. direct left open. 4 steps. The awning stays for the wipe."}
 {"n":719,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the awning at Drydock. Nobody past the south stair. We wipe in 5 steps. Direct on the left lane, open."}
 {"n":720,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock south stair. Ivo keeps the awning for the wipe. 6 steps, direct on the left lane, open."}
+{"n":721,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south stair. direct left open. 7 steps. The awning stays for the wipe."}
+{"n":722,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Drydock. Nobody past the south stair. We wipe in 8 steps. Direct on the left lane, open."}
+{"n":723,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock south stair. Bess keeps the awning for the wipe. 2 steps, direct on the left lane, open."}
