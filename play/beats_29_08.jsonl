@@ -808,3 +808,6 @@
 {"n":808,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at Kessler alley. Nobody past the south roof. We wipe in 3 steps. Direct on the left lane, open."}
 {"n":809,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley south roof. Nia keeps the crate for the wipe. 4 steps, direct on the left lane, open."}
 {"n":810,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south roof. direct left open. 5 steps. The crate stays for the wipe."}
+{"n":811,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the crate at Kessler alley. Nobody past the south roof. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":812,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley south roof. Ivo keeps the crate for the wipe. 7 steps, direct on the left lane, open."}
+{"n":813,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south roof. direct left open. 8 steps. The crate stays for the wipe."}
