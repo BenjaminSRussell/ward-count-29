@@ -748,3 +748,6 @@
 {"n":748,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard north roof. Ivo keeps the barrel for the wipe. 8 steps, direct on the left lane, open."}
 {"n":749,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north roof. direct left open. 2 steps. The barrel stays for the wipe."}
 {"n":750,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Switchyard. Nobody past the north roof. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":751,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard north roof. Bess keeps the barrel for the wipe. 4 steps, direct on the left lane, open."}
+{"n":752,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north roof. direct left open. 5 steps. The barrel stays for the wipe."}
+{"n":753,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Drydock. Nobody past the north roof. We wipe in 6 steps. Direct on the left lane, open."}
