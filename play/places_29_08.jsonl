@@ -309,3 +309,6 @@
 {"n":309,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south roof. direct left open. 8 steps. The plywood stays for the wipe."}
 {"n":310,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at Kessler alley. Nobody past the south roof. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":311,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley south roof. Bess keeps the plywood for the wipe. 3 steps, direct on the left lane, open."}
+{"n":312,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south roof. direct left open. 4 steps. The plywood stays for the wipe."}
+{"n":313,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at the Lot. Nobody past the south roof. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":314,"kind":"place","name":"the Lot south roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot south roof. Matt keeps the plywood for the wipe. 6 steps, direct on the left lane, open."}
