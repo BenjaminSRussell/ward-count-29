@@ -126,3 +126,6 @@
 {"n":126,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at the Underpass. Nobody past the north stair. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":127,"kind":"place","name":"the Underpass north stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass north stair. Bess keeps the radio coil for the wipe. 2 steps, direct on the left lane, open."}
 {"n":128,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north stair. direct left open. 3 steps. The radio coil stays for the wipe."}
+{"n":129,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Mast yard. Nobody past the north stair. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":130,"kind":"place","name":"Mast yard north stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard north stair. Matt keeps the radio coil for the wipe. 5 steps, direct on the left lane, open."}
+{"n":131,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north stair. direct left open. 6 steps. The radio coil stays for the wipe."}
