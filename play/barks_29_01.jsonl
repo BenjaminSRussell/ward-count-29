@@ -279,3 +279,6 @@
 {"n":279,"kind":"place","name":"Stockyard fence south stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence south stair. Bess keeps the rope for the wipe. 6 steps, direct on the left lane, open."}
 {"n":280,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south stair. direct left open. 7 steps. The rope stays for the wipe."}
 {"n":281,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at Mall court. Nobody past the south stair. We wipe in 8 steps. Direct on the left lane, open."}
+{"n":282,"kind":"place","name":"Mall court south stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mall court south stair. Matt keeps the rope for the wipe. 2 steps, direct on the left lane, open."}
+{"n":283,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south stair. direct left open. 3 steps. The rope stays for the wipe."}
+{"n":284,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rope at Mall court. Nobody past the south stair. We wipe in 4 steps. Direct on the left lane, open."}
