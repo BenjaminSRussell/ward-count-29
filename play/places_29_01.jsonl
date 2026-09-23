@@ -292,3 +292,6 @@
 {"n":292,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south stair. direct left open. 5 steps. The rope stays for the wipe."}
 {"n":293,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at the Underpass. Nobody past the south stair. We wipe in 6 steps. Direct on the left lane, open."}
 {"n":294,"kind":"place","name":"the Underpass south stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass south stair. Matt keeps the rope for the wipe. 7 steps, direct on the left lane, open."}
+{"n":295,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south stair. direct left open. 8 steps. The rope stays for the wipe."}
+{"n":296,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rope at the Underpass. Nobody past the south stair. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":297,"kind":"place","name":"the Underpass south stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass south stair. Nia keeps the rope for the wipe. 3 steps, direct on the left lane, open."}
