@@ -907,3 +907,6 @@
 {"n":907,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock west roof. Bess keeps the drum for the wipe. 2 steps, direct on the left lane, open."}
 {"n":908,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west roof. direct left open. 3 steps. The drum stays for the wipe."}
 {"n":909,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at High line. Nobody past the west roof. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":910,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line west roof. Matt keeps the drum for the wipe. 5 steps, direct on the left lane, open."}
+{"n":911,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west roof. direct left open. 6 steps. The drum stays for the wipe."}
+{"n":912,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the drum at High line. Nobody past the west roof. We wipe in 7 steps. Direct on the left lane, open."}
