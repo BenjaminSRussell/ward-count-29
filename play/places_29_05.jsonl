@@ -465,3 +465,6 @@
 {"n":465,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east roof. direct left open. 6 steps. The shutter stays for the wipe."}
 {"n":466,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at the Lot. Nobody past the east roof. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":467,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot east roof. Bess keeps the shutter for the wipe. 8 steps, direct on the left lane, open."}
+{"n":468,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east roof. direct left open. 2 steps. The shutter stays for the wipe."}
+{"n":469,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at Stockyard fence. Nobody past the east roof. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":470,"kind":"place","name":"Stockyard fence east roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence east roof. Matt keeps the shutter for the wipe. 4 steps, direct on the left lane, open."}
