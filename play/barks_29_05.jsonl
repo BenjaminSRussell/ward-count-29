@@ -452,3 +452,6 @@
 {"n":452,"kind":"place","name":"Kessler alley east roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley east roof. Ivo keeps the shutter for the wipe. 7 steps, direct on the left lane, open."}
 {"n":453,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east roof. direct left open. 8 steps. The shutter stays for the wipe."}
 {"n":454,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at Kessler alley. Nobody past the east roof. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":455,"kind":"place","name":"Kessler alley east roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley east roof. Bess keeps the shutter for the wipe. 3 steps, direct on the left lane, open."}
+{"n":456,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east roof. direct left open. 4 steps. The shutter stays for the wipe."}
+{"n":457,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at the Lot. Nobody past the east roof. We wipe in 5 steps. Direct on the left lane, open."}
