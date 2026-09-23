@@ -527,3 +527,6 @@
 {"n":527,"kind":"place","name":"the Underpass south roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass south roof. Bess keeps the hydrant for the wipe. 2 steps, direct on the left lane, open."}
 {"n":528,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south roof. direct left open. 3 steps. The hydrant stays for the wipe."}
 {"n":529,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at Mast yard. Nobody past the south roof. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":530,"kind":"place","name":"Mast yard south roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard south roof. Matt keeps the hydrant for the wipe. 5 steps, direct on the left lane, open."}
+{"n":531,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south roof. direct left open. 6 steps. The hydrant stays for the wipe."}
+{"n":532,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the hydrant at Mast yard. Nobody past the south roof. We wipe in 7 steps. Direct on the left lane, open."}
