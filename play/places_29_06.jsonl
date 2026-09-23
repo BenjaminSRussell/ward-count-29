@@ -833,3 +833,6 @@
 {"n":833,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north roof. direct left open. 2 steps. The crate stays for the wipe."}
 {"n":834,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at Mall court. Nobody past the north roof. We wipe in 3 steps. Direct on the left lane, open."}
 {"n":835,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court north roof. Bess keeps the crate for the wipe. 4 steps, direct on the left lane, open."}
+{"n":836,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north roof. direct left open. 5 steps. The crate stays for the wipe."}
+{"n":837,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at the Underpass. Nobody past the north roof. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":838,"kind":"place","name":"the Underpass north roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass north roof. Matt keeps the crate for the wipe. 7 steps, direct on the left lane, open."}
