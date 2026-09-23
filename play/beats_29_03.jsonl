@@ -306,3 +306,6 @@
 {"n":306,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rope at Mall court. Nobody past the west roof. We wipe in 3 steps. Direct on the left lane, open."}
 {"n":307,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court west roof. Bess keeps the rope for the wipe. 4 steps, direct on the left lane, open."}
 {"n":308,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west roof. direct left open. 5 steps. The rope stays for the wipe."}
+{"n":309,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at the Underpass. Nobody past the west roof. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":310,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass west roof. Matt keeps the rope for the wipe. 7 steps, direct on the left lane, open."}
+{"n":311,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west roof. direct left open. 8 steps. The rope stays for the wipe."}
