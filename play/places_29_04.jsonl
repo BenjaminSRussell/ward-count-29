@@ -340,3 +340,6 @@
 {"n":340,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east roof. direct left open. 8 steps. The plywood stays for the wipe."}
 {"n":341,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Last Light. Nobody past the east roof. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":342,"kind":"place","name":"Last Light east roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light east roof. Matt keeps the plywood for the wipe. 3 steps, direct on the left lane, open."}
+{"n":343,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east roof. direct left open. 4 steps. The plywood stays for the wipe."}
+{"n":344,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at Last Light. Nobody past the east roof. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":345,"kind":"place","name":"Last Light east roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light east roof. Nia keeps the plywood for the wipe. 6 steps, direct on the left lane, open."}
