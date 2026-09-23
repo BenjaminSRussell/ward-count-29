@@ -24,3 +24,6 @@
 {"n":24,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east roof. direct left open. 6 steps. The lamp stays for the wipe."}
 {"n":25,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at South stair. Nobody past the east roof. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":26,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair east roof. Matt keeps the lamp for the wipe. 8 steps, direct on the left lane, open."}
+{"n":27,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, east roof. direct left open. 2 steps. The lamp stays for the wipe."}
+{"n":28,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at South stair. Nobody past the east roof. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":29,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair east roof. Nia keeps the lamp for the wipe. 4 steps, direct on the left lane, open."}
