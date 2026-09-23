@@ -376,3 +376,6 @@
 {"n":376,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock south stair. Ivo keeps the plywood for the wipe. 6 steps, direct on the left lane, open."}
 {"n":377,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south stair. direct left open. 7 steps. The plywood stays for the wipe."}
 {"n":378,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at Drydock. Nobody past the south stair. We wipe in 8 steps. Direct on the left lane, open."}
+{"n":379,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock south stair. Bess keeps the plywood for the wipe. 2 steps, direct on the left lane, open."}
+{"n":380,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south stair. direct left open. 3 steps. The plywood stays for the wipe."}
+{"n":381,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at High line. Nobody past the south stair. We wipe in 4 steps. Direct on the left lane, open."}
