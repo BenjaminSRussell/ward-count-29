@@ -705,3 +705,6 @@
 {"n":705,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east roof. direct left open. 8 steps. The awning stays for the wipe."}
 {"n":706,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at South stair. Nobody past the east roof. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":707,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair east roof. Bess keeps the awning for the wipe. 3 steps, direct on the left lane, open."}
+{"n":708,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east roof. direct left open. 4 steps. The awning stays for the wipe."}
+{"n":709,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at the pier. Nobody past the east roof. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":710,"kind":"place","name":"the pier east roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier east roof. Matt keeps the awning for the wipe. 6 steps, direct on the left lane, open."}
