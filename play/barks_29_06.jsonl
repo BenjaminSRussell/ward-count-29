@@ -124,3 +124,6 @@
 {"n":124,"kind":"place","name":"Kessler alley east roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley east roof. Ivo keeps the radio coil for the wipe. 7 steps, direct on the left lane, open."}
 {"n":125,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east roof. direct left open. 8 steps. The radio coil stays for the wipe."}
 {"n":126,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at Kessler alley. Nobody past the east roof. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":127,"kind":"place","name":"Kessler alley east roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley east roof. Bess keeps the radio coil for the wipe. 3 steps, direct on the left lane, open."}
+{"n":128,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east roof. direct left open. 4 steps. The radio coil stays for the wipe."}
+{"n":129,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at the Lot. Nobody past the east roof. We wipe in 5 steps. Direct on the left lane, open."}
