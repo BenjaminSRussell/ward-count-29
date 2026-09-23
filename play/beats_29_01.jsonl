@@ -686,3 +686,6 @@
 {"n":686,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at the pier. Nobody past the south stair. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":687,"kind":"place","name":"the pier south stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier south stair. Bess keeps the awning for the wipe. 8 steps, direct on the left lane, open."}
 {"n":688,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south stair. direct left open. 2 steps. The awning stays for the wipe."}
+{"n":689,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Clinic roof. Nobody past the south stair. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":690,"kind":"place","name":"Clinic roof south stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof south stair. Matt keeps the awning for the wipe. 4 steps, direct on the left lane, open."}
+{"n":691,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south stair. direct left open. 5 steps. The awning stays for the wipe."}
