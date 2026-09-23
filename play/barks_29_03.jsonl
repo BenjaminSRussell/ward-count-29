@@ -316,3 +316,6 @@
 {"n":316,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass west roof. Ivo keeps the rope for the wipe. 6 steps, direct on the left lane, open."}
 {"n":317,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west roof. direct left open. 7 steps. The rope stays for the wipe."}
 {"n":318,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rope at the Underpass. Nobody past the west roof. We wipe in 8 steps. Direct on the left lane, open."}
+{"n":319,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass west roof. Bess keeps the rope for the wipe. 2 steps, direct on the left lane, open."}
+{"n":320,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west roof. direct left open. 3 steps. The rope stays for the wipe."}
+{"n":321,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at Mast yard. Nobody past the west roof. We wipe in 4 steps. Direct on the left lane, open."}
